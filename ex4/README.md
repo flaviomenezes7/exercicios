@@ -1,4 +1,4 @@
-# Explicação das Estrutura de Pastas
+# Explicação da Estrutura de Pastas
 
 .venv  --> # Ambiente virtual Python. Contem pacotes e dependências instalados localmente isolando do sistema global. 
 
