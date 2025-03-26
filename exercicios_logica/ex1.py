@@ -5,7 +5,7 @@ Escreva um programa contendo uma função que tenha como parâmetros de entrada 
 - A função deve converter os números em inteiros caso não sejam. -> OK
 - A função deve ter tratativa de erros caso os parâmetros não sejam números. -> OK
 - A função deve retornar o resultado. -> OK
-- Use if __name__ == "__main__" para executar a função.
+- Use if __name__ == "__main__" para executar a função. -> OK
 """
 
 def multiplicacao(num1: int, num2: int) -> int:

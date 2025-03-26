@@ -1,0 +1,69 @@
+Flávio  Batista  dos Santos 
+Menezes  
+VITÓRIA , ESPÍRITO  SANTO , BRASIL 
++55 (27) 99616 -868 – mnzflavio77@gmail.com  
+GIT HUB - https://github.com/flaviomenezes7  
+ 
+INTRODUÇÃO  
+ 
+Técnico em Desenvolvimento de Sistemas, atualmente cursando Técnologo em Análise e Desenvolvimento de Sistemas na 
+Universidade Católica  do Espírito  Santo.  Experiência  no desenvolvimento  de projetos  e análise de dados,  com foco na  criação 
+de dashboards dinâmicos utilizando Python.  
+EXPERIÊNCIA  PROFISSIONAL  
+ 
+Grupo  Águia  Branca,  Espirito  Santo,  Brasil  Set. 2023 – Atualmente  
+Analista de  Automação  
+ 
+o Responsável  por implementar a  primeira  IA no sistema  de chat  empresarial,  auxiliando  os clientes a  compreender  os 
+processos da empresa.  
+o Responsável  por organizar  reuniões  com  fornecedores  identificar  possíveis  áreas  de melhoria.  
+o Responsável  pela  manutenção  e gestão  de contas de  usuários  no Active  Directory  (AD),  garantindo  o controle  de acesso 
+adequado e a conformidade com as normas de segurança.  
+o Responsável  pela  gestão  de ativos no  sistema,  assegurando  o rastreamento  preciso,  a alocação  e a manutenção  dos ativos 
+da empresa.  
+o Automatizei  processos na  plataforma  de gestão  do WhatsApp  da empresa,  otimizando  o fluxo  de trabalho  e melhorando  o 
+tempo de resposta. Auxiliei na criação de URAs de atendimento para aprimorar a experiência do usuário.  
+o Auxílio  na criação  de scripts  em Python  para  melhorar  à eficiência  do fluxo  de trabalho  e otimizar processos.  
+ 
+Universidade  Federal do  Espirito  Santo,  Espirito  Santo,  Brasil  Dez.  2022  – Set.2023  
+Bolsista  
+ 
+o Contribuí para a construção de um painel de empreendedorismo para a ADERES, focado em fornecer suporte e 
+informações relevantes  para  microempreendedores.  O painel  foi desenvolvido  para  oferecer  orientação  sobre práticas  de 
+gestão, acesso a linhas de crédito, capacitação e oportunidades de mercado, ajudando os microempreendedores a 
+expandirem seus negócios.  
+ 
+PROJETOS  
+ 
+ 
+Sistema de Análise de Currículos   
+  
+o Desenvolvi um sistema de análise de currículos para o Grupo Águia Branca, após realizar reuniões com o cliente para 
+entender suas necessidades. Utilizando Python, Streamlit e Pandas, criei uma solução que emprega Inteligência Artificial 
+para avaliar candid atos, atribuindo notas e gerando resumos personalizados com base nos critérios da vaga, otimizando o 
+processo seletivo . 
+ 
+FORMAÇÃO  ACADÊMICA  
+ 
+ 
+Universidade  Católica  do Espírito  Santo - Presencial/EAD  Fev.2023  – Jun.2025  
+Graduação:  Tecnólogo  em Análise  e Desenvolvimento  de Sistemas   
+SENAI  Vitória  – Presencial  Abr.2021  – Ago.2022  
+Graduação:  Técnico  em Desenvolvimento  de Sistemas   
+ 
+SKILLS 
+o Python  
+o Java 
+o JavaScript  
+o SQL 
+o Django  
+o Pandas  
+o Html/CSS  
+o GIT/GitHub  
+o Inglês Intermediário   
+ 
+o Resolução  de Problemas  
+o Inovação  
+o Comunicativo  
+o Colaborativo  
+o Adaptabilidade  
