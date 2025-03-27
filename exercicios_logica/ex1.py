@@ -1,5 +1,5 @@
 """
-Escreva um programa contendo uma função que tenha como parâmetros de entrada dois números inteiros.
+1) Escreva um programa contendo uma função que tenha como parâmetros de entrada dois números inteiros.
 - A função deve executar a multiplicação dos dois números. -> OK
 - A função deve ter type hints nas variáveis de entrada e no retorno. -> OK
 - A função deve converter os números em inteiros caso não sejam. -> OK
@@ -11,10 +11,8 @@ Escreva um programa contendo uma função que tenha como parâmetros de entrada 
 def multiplicacao(num1: int, num2: int) -> int:
     try: 
         return int(num1) * int(num2) 
-    except ValueError: 
+    except: 
         return "Os números devem ser inteiros." 
-    except Exception as e: 
-        return f"Erro: {e}"
 
 
 if __name__ == "__main__":

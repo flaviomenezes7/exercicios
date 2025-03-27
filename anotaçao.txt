@@ -1,0 +1,35 @@
+------------------------- ANOTAÇÕES -------------------------
+
+return -> Responsável por devolver o valor.
+
+- Exemplo:
+
+##### COM RETURN #####
+
+def numeros_pares(lista):
+    return [i for i in lista if i % 2 == 0]
+
+print(numeros_pares([1, 2, 3, 4, 5, 6]))  # Saída: [2, 4, 6]
+
+
+##### SEM RETURN #####
+
+def numeros_pares(lista):
+    [i for i in lista if i % 2 == 0]  # Isso gera a lista, mas não faz nada com ela
+
+print(numeros_pares([1, 2, 3, 4, 5, 6]))  # Saída: None
+
+<><><><><><><><><><><><><><><><><>#<><><><><><><><><><><><><><><><><><><>
+
+- Explicando o looping:
+
+[expressão for variável in iterável if condição] = [i for i in lista if i % 2 == 0]
+
+-> i expressão (número que será adicionado a lista. no caso dessa questão são os números pares que quero.)
+-> for i in lista (iterando sobre a lista, passando por ela)
+-> if i % 2 == 0 (condição para ver se o número é par ou não.)
+
+
+---------------------------------------------------------------------------
+
+
