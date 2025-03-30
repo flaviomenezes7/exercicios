@@ -33,3 +33,27 @@ print(numeros_pares([1, 2, 3, 4, 5, 6]))  # Saída: None
 ---------------------------------------------------------------------------
 
 
+# Diferença Selenium x BeautifulSoap
+
+- Propósito: Selenium é uma ferramenta de automação de navegadores. Ele é usado para interagir com páginas da web de forma programática,
+simulando ações de um usuário real, como clicar em botões, preencher formulários e navegar entre páginas.
+
+- Propósito: BeautifulSoup é uma biblioteca de parsing HTML e XML. Ele é usado para analisar e extrair dados de páginas
+estáticas ou de HTML já carregado.
+
+
+# Quando usar cada um?
+
+Use Selenium:
+
+Quando a página carrega conteúdo dinamicamente via JavaScript.
+Quando você precisa interagir com a página (ex.: clicar em botões, rolar a página).
+Para simular o comportamento de um usuário real.
+
+Use BeautifulSoup:
+Quando a página é estática ou o HTML completo pode ser obtido diretamente.
+Quando você precisa de uma solução mais rápida e leve para extração de dados.
+Quando não há necessidade de interagir com a página.
+
+
+---------------------------------------------------------------------------
