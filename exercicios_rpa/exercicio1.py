@@ -4,16 +4,16 @@
 """
 import PyPDF2
 
-def extrair_texto_pdf(pdf_arquivo, txt_arquivo):
-    with open(pdf_arquivo, 'rb') as pdf:
-        leitor = PyPDF2.PdfReader(pdf)
-        texto = ''
+def extrair_texto_pdf(pdf_arquivo, txt_arquivo): # recebe como parametro o arquivo pdf e o arquivo txt
+    with open(pdf_arquivo, 'rb') as pdf: # abre o arquivo pdf em modo leitura binaria por que o pdf é um arquivo binario
+        leitor = PyPDF2.PdfReader(pdf) 
+        texto = '' # inicia uma variavel vazia para armazenar o texto extraido do pdf
         for pagina in leitor.pages:
             texto += pagina.extract_text()
     
-    # O arquivo será criado automaticamente se não existir
+    # o arquivo será criado automaticamente se não existir
     with open(txt_arquivo, 'w', encoding='utf-8') as txt:
         txt.write(texto)
         
-# Gera o arquivo 'arquivo.txt' com o texto extraído do PDF
+# gera o arquivo 'arquivo.txt' com o texto extraído do PDF
 extrair_texto_pdf(r'C:\Users\mnzfl\exercicios\exercicios_rpa\cv_flavio.pdf', 'arquivo.txt')
