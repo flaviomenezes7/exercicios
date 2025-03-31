@@ -61,3 +61,5 @@ with open("produtos.csv", "w", newline="", encoding="utf-8") as csvfile:
 print(" Dados salvos em: 'produtos.csv'.")
 
 driver.quit()
+
+
